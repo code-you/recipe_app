@@ -7,4 +7,4 @@ export default {
     dbCredentials: {
         url: ENV.DATABASE_URL
     }
-}
+};
